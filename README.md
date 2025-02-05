@@ -22,10 +22,18 @@ chmod +x aws_cloud_managerr.sh
 
 AWS Configure
 
+Access key key ID
+
+secret key 
+
+default region name and json defined
+
 ![](./img/1.%20AWS%20Configure.png)
+Connected to AWS with the above then
 
+edited file aws_cloud_managerr.sh file 
 
-1. Define IAM User Array  and Create users
+1. Define IAM User Array  and Create users,  below is the screenshot of the bash script
 
 ![Define user array](./img/1.%20Define%20and%20create%20users.png)
 
