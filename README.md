@@ -3,6 +3,22 @@ Capstone Linux and Shell Scripting Project
 ## This project is about managing AWS Identity .
 and Access management resources. 
 
+Created a file using 
+
+touch aws_cloud_managerr.sh
+
+Edited the file 
+
+![](./img/Touch.png)
+
+
+vi aws_cloud_managerr.sh
+
+![](./img/Touch.png)
+
+granted execute permissions
+
+chmod +x aws_cloud_managerr.sh
 
 AWS Configure
 
